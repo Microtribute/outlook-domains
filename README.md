@@ -1,5 +1,5 @@
-Outlook Email Domains
-=====================
+Outlook Email Regional Support
+==========================================
 
 *   [Algeria - Français](https://signup.live.com/signup?mkt=fr-dz)
     *   outlook.fr
